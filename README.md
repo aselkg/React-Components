@@ -1,2 +1,2 @@
-# Eemojis with their meaning
-## Mapping React Components
+## Eemojis with their meaning
+### Mapping React Components
